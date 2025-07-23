@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Evania Putri!
 
-🎯 A passionate **Data Analyst** with a background in Statistics and hands-on experience in transforming raw data into valuable insights to drive decision-making. I specialize in **Power BI**, **SQL**, and **Excel**, and love turning messy data into clear, actionable stories.
+🎯 A passionate **Data Analyst** with a background in Statistics and hands-on experience in transforming raw data into valuable insights to drive decision-making. I specialize in **Power BI**, **SQL**, and **Excel**, and I enjoy working with statistical tools like **R**, **Python**, and **Minitab** to uncover patterns and improve business outcomes.
 
 ---
 
@@ -8,17 +8,25 @@
 
 - 📍 Based in Bandung, Indonesia  
 - 🎓 Bachelor's in Statistics  
-- 📊 Currently working as a **Data Analyst** at **Garudafood**, focusing on production performance and operational efficiency  
-- 🚀 Interested in growing my skills in **data visualization, automation**, and eventually **data science**
+- 📊 Currently working as a **Data Analyst** at **Garudafood**, focusing on production performance, utilization, and waste/loss analysis  
+- 🧪 Skilled in **statistical analysis**, **data visualization**, and **dashboard development**  
+- 🚀 Eager to grow deeper in **predictive analytics**, **process improvement**, and **automation with Python/R**
 
 ---
 
 ## 🔧 Tech Stack & Tools
 
-- **Languages**: SQL • DAX • Python (basic)
-- **Data Tools**: Power BI • Excel (Power Query, Pivot Table) • Google Sheets
-- **Database**: MySQL • PostgreSQL
-- **Others**: Git • PowerPoint • Looker Studio
+### 📊 Analytics & Visualization
+- **Power BI** • Excel (Power Query, Pivot Table) • Google Sheets • Looker Studio
+
+### 🧠 Statistics & Programming
+- **R** • **Python (pandas, matplotlib, seaborn)** • **Minitab** • SPSS (basic)
+
+### 🗄️ Database & Query
+- **SQL** • MySQL • PostgreSQL
+
+### ⚙️ Others
+- Git • PowerPoint • Markdown
 
 ---
 
@@ -28,8 +36,8 @@
   - **Production Utilization Tracking** (daily, weekly, monthly)
   - **Accuracy Stock Monitoring** (RM & PM)
   - **Waste & Loss Analysis** across Biscuit, Dairy, and Snack lines
-- 🗂 Automated Excel reports using pivot tables and dynamic formulas
-- 📚 Analyzed customer shopping behavior for a case study with a fictional retail company in Istanbul
+- 🧪 Performed statistical analysis (ANOVA, control charts) using **Minitab** and **R**
+- 📚 Analyzed customer shopping behavior for a fictional retail case study (Power BI + Python)
 
 ---
 
