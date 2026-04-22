@@ -17,10 +17,10 @@
 ## 🔧 Tech Stack & Tools
 
 ### 📊 Analytics & Visualization
-- **Power BI** • Excel (Power Query, Pivot Table) • Google Sheets • Looker Studio
+- **Power BI** • Excel (Power Query, Pivot Table) • Google Sheets • Looker Studio • Tableu
 
 ### 🧠 Statistics & Programming
-- **R** • **Python (pandas, matplotlib, seaborn)** • **Minitab** • SPSS (basic)
+- **R** • **Python (pandas, matplotlib, seaborn)** • **Minitab** • SPSS 
 
 ### 🗄️ Database & Query
 - **SQL** • MySQL • PostgreSQL
